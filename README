@@ -1,0 +1,1 @@
+Sets up key presses to detect konami code and dispatches an event "konami" to the document.
